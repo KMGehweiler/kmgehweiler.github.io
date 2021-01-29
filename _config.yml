@@ -26,7 +26,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: inded/Jekyll_modern-blog
+#theme: minima
 plugins:
   - jekyll-feed
 
