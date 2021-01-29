@@ -26,7 +26,7 @@ url: "hhtp://kmgehweiler.de" # the base hostname & protocol for your site, e.g. 
 
 # Build settings
 markdown: kramdown
-remote_theme: inded/Jekyll_modern-blog
+remote_theme: daattali / beautiful-jekyll
 #theme: minima
 plugins:
   - jekyll-feed
