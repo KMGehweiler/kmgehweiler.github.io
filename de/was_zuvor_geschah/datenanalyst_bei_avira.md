@@ -1,37 +1,39 @@
 ---
-layout: default
+layout: english_expanded
 ---
+<div style="text-align: right"><a href="/de/was_zuvor_geschah/datenanalyst_bei_avira">DE</a> <a href="/en/previously/data-analyst_at_avira">EN</a></div>
 
-# Task Breakdown
 
-Karin’s daily work included a wide range of tasks, mostly consisting of the handling of data related topics for legacy products on Windows, macOS and mobile OSes as well as for a completely new macOS product. Additionally, she performed administrative tasks related to the tracking platform Mixpanel and other topics such as internal education, cross-unit alignments and heavy involvement in the coordination and support of student projects.
+# Tätigkeitsbeschreibung
 
-The handling of data related topics was focused on the following tasks
-* definition and reporting of KPIs
-* error monitoring
-* release monitoring
-* topic deep dive analyses
-* monitoring of user / product reactions to changes in the * market and environments (e.g. Redstone 5 release)
-* data verification against other internal products
-* data quality checks during implementation and live across tracking platforms
-* dashboard creation and implementation of automatic reports
+Karins Aufgaben umfassten ein breites Spektrum an Tätigkeiten und bestanden hauptsächlich aus allerlei Daten-bezogenen Themen für bestehende Produkte auf Windows, macOS und Mobile, sowie für ein völlig neues macOS-Produkt. Darüber hinaus kümmerte sie sich um administrative Aufgaben im Zusammenhang mit der Tracking-Plattform Mixpanel und andere Themen wie interner Bildung, abteilungsübergreifender Koordination und der Betreuung eines Studenten-Projektes.
 
-Specific to the legacy products
-* feedback analysis
-* implementation new standards (feedback and data collection)
+Die Daten-bezogenen Themen konzentrierten sich hauptsächlich auf die folgenden Aufgaben
+* Definition und Reporting von KPIs
+* Fehler Monitoring
+* Release Monitoring
+* Deep Dive Analysen zu speziellen Themen
+* Monitoring der Reaktionen von Nutzer und Produkten auf Änderungen des Marktes und der Umgebung (z. B. Redstone 5 Release)
+* Verifizierung von Daten gegenüber anderer interner Produkte
+* Prüfung der Datenqualität während der Implementierung und im Live-Betrieb über verschiedene Tracking-Plattformen hinweg
+* Implementierung von Dashboard und Implementierung von automatischen Reports
 
-Specific to the new macOS product
-* definition of a cross-tracking-platform data design, compatible with company wide standards
-* enabling company focus on experimentation (e.g. A/B-testing)
+Bei den den bestehenden Produkten kamen noch dazu
+* Feedback-Analyse
+* Implementierung neuer Standards (für Feedback und Datenerfassung)
 
-The responsibilities in the area of Mixpanel administration consisted of
-* complete restructuring and reworking of the tracking as a reaction to GDPR
-* regular sync meetings with Mixpanel to streamline and advance the partnership
-* project, user and usage administration
+Während bei dem neuen Produkt noch Folgendes dazu kam:
+* Definition eines plattformübergreifenden Daten-Schemas, das mit den unternehmensweiten Standards kompatibel ist
+* Ermöglichung von Experimenten (z.B. A/B-Tests)
 
-Aside from the already mentioned, Karin also took on responsibilities in various other areas including
-* organisation of external, internal and self-executed trainings (mainly on Mixpanel)
-* supervision of a student project to create a proof of concept on natural language processing with AWS within the existing feedback processing pipeline
-* cross-unit data & insights sharing and alignment on processes
+Die Zuständigkeiten im Bereich der Mixpanel-Administration bestanden aus
+* Umstellung des Tracking als Reaktion auf GDPR
+* Regelmäßiger Austausch mit Mixpanel, um die Partnerschaft zu optimieren und voranzutreiben
+Nutzungs-, Projekt- und Benutzerverwaltung
 
-To achieve all of this she developed a strong grip on  tools like Mixpanel, Tableau, data lake (AWS Athena), Survey Monkey, Jupyter, Python, Google Analytics and Atlassian. This was enhanced by her understanding of topics such as GDPR, MVP and personas, experimentation, user lifetime journey, AAARRR metrics and usability & UX Design.
+Neben dem bereits Erwähnten übernahm Karin auch Aufgaben in verschiedenen anderen Bereichen, darunter
+* Organisation von externen, internen und selbst durchgeführten Schulungen (hauptsächlich zu Mixpanel)
+* Betreuung eines studentischen Projekts zur Erstellung eines Proof-of-Concept zur Integration von Natural Language Processing mit AWS in der bestehenden Feedback-Verarbeitungspipeline
+* Abteilungsübergreifender Austausch von Daten und Erkenntnissen, sowie die Koordination von Prozessen
+
+Im Zuge ihrer Arbeit entwickelte sie ein solides Verständnis der Tools wie Mixpanel, Tableau, Data Lake (AWS Athena), Survey Monkey, Jupyter, Python, Google Analytics und Atlassian. Dies wird durch ihre Kenntnis von Themen wie GDPR, MVP und Personas, Experimente, User Lifetime Journey, AAARRR-Metriken und Usability & UX Design passend ergänzt.
