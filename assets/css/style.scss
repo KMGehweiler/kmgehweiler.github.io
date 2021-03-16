@@ -5,7 +5,9 @@
 // general changes for better screen compatibility
 h1 {
   font-size: 2em;
+  margin: 1.5em 0 0.8em 0;
 }
+
 // general header
 header a {
   width: auto;
@@ -74,9 +76,13 @@ header ul a {
 */
 
 // body duh
+body h1:first-of-type{
+  margin: 0 0 0.8em 0;
+}
 body p {
+  margin-top: 20px;
   text-align: justify;
 }
 body ul {
-//  margin-bottom: auto;
+  margin-bottom: auto;
 }

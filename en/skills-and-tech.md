@@ -1,8 +1,16 @@
 ---
-layout: default
+layout: english
 ---
 
-# My Techstack
+# Skillstack
+
+* Data Visualisation
+  * in Tableau, Mixpanel, R (ggplot2)
+* Reporting / Creating automated reports
+* English Fluency
+* Good "Right Hand Man"
+
+# Techstack
 
 * Mixpanel
   * administration
