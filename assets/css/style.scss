@@ -2,9 +2,27 @@
 ---
 
 @import "jekyll-theme-minimal";
+// general changes for better screen compatibility
 h1 {
   font-size: 2em;
 }
+// general header
+header a {
+  width: auto;
+}
+header h1 {
+  margin-top: 1.5em;
+}
+header img {
+  width: 80px;
+}
+//header p {
+//  text-align: center;
+//}
+header p {
+  text-align: left;
+}
+// navigation left
 header ul{
   width:auto;
   position: relative;
@@ -17,46 +35,32 @@ header ul{
   background: none;
 }
 header li{
-  width:auto;
+  width: auto;
   height: auto;
   float: none;
   border: none;
 }
-
+header li:last-child{
+  width: auto;
+}
 header ul a {
   line-height: normal;
   text-align: left;
   height: auto;
-  width: auto;
+  //width: auto;
   color: #267CB9;
-  padding:  3px 0 3px 0;
-
+  padding: 3px 0 3px 0;
 }
-header a {
-  width: auto;
-}
-header h1 {
-  margin-top: 1.5em;
-}
-
-header img {
-  width: 80px;
-}
-header p {
-  text-align: center;
-}
-
 .sidenav {
     padding: 1em;
     background: #f4f4f4;
 }
-
 .sidenav a {
-  width: auto;
   display:block;
-
 }
 
+// to be determined
+/*
 .languages li {
     width: auto;
     float: left;
@@ -67,12 +71,12 @@ header p {
 .languages a {
       color: grey;
 }
+*/
+
+// body duh
 body p {
   text-align: justify;
 }
-header p {
-  text-align: left;
-}
 body ul {
-  margin-bottom: auto;
+//  margin-bottom: auto;
 }
