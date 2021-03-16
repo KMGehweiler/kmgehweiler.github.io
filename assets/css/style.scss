@@ -25,9 +25,13 @@ header ul a {
   line-height: normal;
   text-align: left;
   height: auto;
+  width: auto;
   color: #267CB9;
   padding:  3px 0 3px 0;
 
+}
+header a {
+  width: auto;
 }
 header h1 {
   margin-top: 1.5em;
@@ -36,6 +40,9 @@ header h1 {
 header img {
   width: 80px;
 }
+header p {
+  text-align: center;
+}
 
 .sidenav {
     padding: 1em;
@@ -43,6 +50,7 @@ header img {
 }
 
 .sidenav a {
+  width: auto;
   display:block;
 
 }
@@ -59,4 +67,10 @@ header img {
 }
 body p {
   text-align: justify;
+}
+header p {
+  text-align: left;
+}
+body ul {
+  margin-bottom: auto;
 }

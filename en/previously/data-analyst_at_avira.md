@@ -12,7 +12,7 @@ The handling of data related topics was focused on the following tasks
 * error monitoring
 * release monitoring
 * topic deep dive analyses
-* monitoring of user / product reactions to changes in the * market and environments (e.g. Redstone 5 release)
+* monitoring of user / product reactions to changes in the market and environments (e.g. Redstone 5 release)
 * data verification against other internal products
 * data quality checks during implementation and live across tracking platforms
 * dashboard creation and implementation of automatic reports

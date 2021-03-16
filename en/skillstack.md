@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: english
 ---
 
 # My Skillstack
 
 * Data Visualisation
-* Reportingm / Creating automated reports
+  * in Tableau, Mixpanel, R (ggplot2)
+* Reporting / Creating automated reports
 * English Fluency
 * Good "Right Hand Man"
