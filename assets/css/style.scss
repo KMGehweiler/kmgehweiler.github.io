@@ -42,9 +42,6 @@ header li{
   float: none;
   border: none;
 }
-header li:last-child{
-  width: auto;
-}
 header ul a {
   line-height: normal;
   text-align: left;
@@ -59,6 +56,9 @@ header ul a {
 }
 .sidenav a {
   display:block;
+}
+.sidenav li {
+  width: auto;
 }
 
 // to be determined
