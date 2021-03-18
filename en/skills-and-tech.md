@@ -15,7 +15,7 @@ layout: english
 * english fluency
 * experienced "right hand man"
 
-# Aquainted Topics
+# Topics
 
 * AAARRR metrics
 * GDPR
