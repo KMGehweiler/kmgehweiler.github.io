@@ -11,9 +11,11 @@ layout: english_expanded
 **university:** University of Augsburg
 
 **hightlights of my previous work experiences:**
-* [student council, student parliament & student council of elders @ uni augsburg](previously/uni-augsburg)
-* [translator & statistical consultant @ anfema](previously/anfema)
-* [assistent @ sequda](previously/sequda)
+
 * [data analyst @ avira](previously/avira)
+* [assistent @ sequda](previously/sequda)
+* [translator & statistical consultant @ anfema](previously/anfema)
+* [student council, student parliament & student council of elders @ uni augsburg](previously/uni-augsburg)
+
 
 My full CV can be found in [LinkedIn](https://www.linkedin.com/in/karingehweiler/).
