@@ -3,9 +3,11 @@ layout: english_expanded
 ---
 <div style="text-align: right"><a href="/de/was_zuvor_geschah/avira">DE</a> <a href="/en/previously/avira">EN</a></div>
 
-# Task Breakdown
+# Data Analyst @ Avira
 
-Karin’s daily work included a wide range of tasks, mostly consisting of the handling of data related topics for legacy products on Windows, macOS and mobile OSes as well as for a completely new macOS product. Additionally, she performed administrative tasks related to the tracking platform Mixpanel and other topics such as internal education, cross-unit alignments and heavy involvement in the coordination and support of student projects.
+_Tettnang; Aug 2016 - Feb 2021_
+
+My daily work included a wide range of tasks, mostly consisting of the handling of data related topics for legacy products on Windows, macOS and mobile OSes as well as for a completely new macOS product. Additionally, she performed administrative tasks related to the tracking platform Mixpanel and other topics such as internal education, cross-unit alignments and heavy involvement in the coordination and support of student projects.
 
 The handling of data related topics was focused on the following tasks
 * definition and reporting of KPIs
@@ -30,7 +32,7 @@ The responsibilities in the area of Mixpanel administration consisted of
 * regular sync meetings with Mixpanel to streamline and advance the partnership
 * project, user and usage administration
 
-Aside from the already mentioned, Karin also took on responsibilities in various other areas including
+Aside from the already mentioned, I also took on responsibilities in various other areas including
 * organisation of external, internal and self-executed trainings (mainly on Mixpanel)
 * supervision of a student project to create a proof of concept on natural language processing with AWS within the existing feedback processing pipeline
 * cross-unit data & insights sharing and alignment on processes
