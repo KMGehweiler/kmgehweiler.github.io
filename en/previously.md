@@ -14,6 +14,6 @@ layout: english_expanded
 * [student council, student parliament & student council of elders @ uni augsburg](uni-augsburg)
 * [translator & statistical consultant @ anfema](anfema)
 * [assistent @ sequda](sequda)
-* [data analyst @ avira](avira)
+* [data analyst @ avira](previously/avira)
 
 My full CV can be found in [LinkedIn](https://www.linkedin.com/in/karingehweiler/).
