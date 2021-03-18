@@ -18,12 +18,15 @@ header h1 {
 header img {
   width: 80px;
 }
-//header p {
-//  text-align: center;
-//}
 header p {
   text-align: left;
 }
+// logo
+header img{
+  width: 60px;
+  margin-bottom: 2em;
+}
+
 // navigation left
 header ul{
   width:auto;
@@ -41,6 +44,7 @@ header li{
   height: auto;
   float: none;
   border: none;
+  padding-bottom: 5px;
 }
 header ul a {
   line-height: normal;
@@ -49,6 +53,7 @@ header ul a {
   //width: auto;
   color: #267CB9;
   padding: 3px 0 3px 0;
+  font-size: 13px;
 }
 .sidenav {
     padding: 1em;

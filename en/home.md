@@ -10,7 +10,7 @@ I'm Karin.
 
 I love data visualization, documentation and everything that is structured well.
 
-My passion are the creation of order out of chaos and preparing it for everyone.
+My passion are the creation of order out of chaos and restructuring it for everyone to use.
 I also like languages and volunteer as an English-German translator for asian dramas on viki. I hope I can someday improve my Korean to also translate Korean-English.
 
 Check out my
