@@ -1,7 +1,7 @@
 ---
 layout: english_expanded
 ---
-<div style="text-align: right"><a href="/de/was_zuvor_geschah/datenanalyst_bei_avira">DE</a> <a href="/en/previously/data-analyst_at_avira">EN</a></div>
+<div style="text-align: right"><a href="/de/was_zuvor_geschah/avira">DE</a> <a href="/en/previously/avira">EN</a></div>
 
 # Task Breakdown
 
