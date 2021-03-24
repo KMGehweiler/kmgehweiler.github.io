@@ -6,6 +6,8 @@ layout: german_expanded
 
 # Daten-Analyst @&nbsp;Avira
 
+_Tettnang; Aug 2016 - Feb 2021_
+
 Meine Aufgaben umfassten ein breites Spektrum an Tätigkeiten und bestanden hauptsächlich aus allerlei Daten-bezogenen Themen für bestehende Produkte auf Windows, macOS und Mobile, sowie für ein völlig neues macOS-Produkt. Darüber hinaus kümmerte ich sich um administrative Aufgaben im Zusammenhang mit der Tracking-Plattform Mixpanel und andere Themen wie interner Bildung, abteilungsübergreifender Koordination und der Betreuung eines Studenten-Projektes.
 
 Die Daten-bezogenen Themen konzentrierten sich hauptsächlich auf die folgenden Aufgaben

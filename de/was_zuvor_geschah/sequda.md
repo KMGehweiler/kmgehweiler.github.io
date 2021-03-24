@@ -5,6 +5,8 @@ layout: german_expanded
 
 # Geschäftsführer Assistenz @&nbsp;sequda
 
+_Friedrichshafen; Jan 2015 - Dez 2015_
+
 * Programmierung einer automatischen Evaluation und Ausgabe von Audits
 * Entwicklung einer eLearning-Plattform
 * Aufbereitung von fachlichen Themen u.A. in englischer Sprache
