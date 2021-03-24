@@ -1,12 +1,12 @@
 ---
-layout: english_expanded
+layout: german_expanded
 ---
 <div style="text-align: right"><a href="/de/was_zuvor_geschah/avira">DE</a> <a href="/en/previously/avira">EN</a></div>
 
 
-# Tätigkeitsbeschreibung
+# Daten-Analyst @&nbsp;Avira
 
-Karins Aufgaben umfassten ein breites Spektrum an Tätigkeiten und bestanden hauptsächlich aus allerlei Daten-bezogenen Themen für bestehende Produkte auf Windows, macOS und Mobile, sowie für ein völlig neues macOS-Produkt. Darüber hinaus kümmerte sie sich um administrative Aufgaben im Zusammenhang mit der Tracking-Plattform Mixpanel und andere Themen wie interner Bildung, abteilungsübergreifender Koordination und der Betreuung eines Studenten-Projektes.
+Meine Aufgaben umfassten ein breites Spektrum an Tätigkeiten und bestanden hauptsächlich aus allerlei Daten-bezogenen Themen für bestehende Produkte auf Windows, macOS und Mobile, sowie für ein völlig neues macOS-Produkt. Darüber hinaus kümmerte ich sich um administrative Aufgaben im Zusammenhang mit der Tracking-Plattform Mixpanel und andere Themen wie interner Bildung, abteilungsübergreifender Koordination und der Betreuung eines Studenten-Projektes.
 
 Die Daten-bezogenen Themen konzentrierten sich hauptsächlich auf die folgenden Aufgaben
 * Definition und Reporting von KPIs
@@ -31,9 +31,9 @@ Die Zuständigkeiten im Bereich der Mixpanel-Administration bestanden aus
 * Regelmäßiger Austausch mit Mixpanel, um die Partnerschaft zu optimieren und voranzutreiben
 Nutzungs-, Projekt- und Benutzerverwaltung
 
-Neben dem bereits Erwähnten übernahm Karin auch Aufgaben in verschiedenen anderen Bereichen, darunter
+Neben dem bereits Erwähnten übernahm ich auch Aufgaben in verschiedenen anderen Bereichen, darunter
 * Organisation von externen, internen und selbst durchgeführten Schulungen (hauptsächlich zu Mixpanel)
 * Betreuung eines studentischen Projekts zur Erstellung eines Proof-of-Concept zur Integration von Natural Language Processing mit AWS in der bestehenden Feedback-Verarbeitungspipeline
 * Abteilungsübergreifender Austausch von Daten und Erkenntnissen, sowie die Koordination von Prozessen
 
-Im Zuge ihrer Arbeit entwickelte sie ein solides Verständnis der Tools wie Mixpanel, Tableau, Data Lake (AWS Athena), Survey Monkey, Jupyter, Python, Google Analytics und Atlassian. Dies wird durch ihre Kenntnis von Themen wie GDPR, MVP und Personas, Experimente, User Lifetime Journey, AAARRR-Metriken und Usability & UX Design passend ergänzt.
+Im Zuge meiner Arbeit entwickelte ich ein solides Verständnis der Tools wie Mixpanel, Tableau, Data Lake (AWS Athena), Survey Monkey, Jupyter, Python, Google Analytics und Atlassian. Dies wird durch meine Kenntnis von Themen wie GDPR, MVP und Personas, Experimente, User Lifetime Journey, AAARRR-Metriken und Usability & UX Design passend ergänzt.

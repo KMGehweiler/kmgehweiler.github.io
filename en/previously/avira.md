@@ -7,7 +7,7 @@ layout: english_expanded
 
 _Tettnang; Aug 2016 - Feb 2021_
 
-My daily work included a wide range of tasks, mostly consisting of the handling of data related topics for legacy products on Windows, macOS and mobile OSes as well as for a completely new macOS product. Additionally, she performed administrative tasks related to the tracking platform Mixpanel and other topics such as internal education, cross-unit alignments and heavy involvement in the coordination and support of student projects.
+My daily work included a wide range of tasks, mostly consisting of the handling of data related topics for legacy products on Windows, macOS and mobile OSes as well as for a completely new macOS product. Additionally, I performed administrative tasks related to the tracking platform Mixpanel and other topics such as internal education, cross-unit alignments and heavy involvement in the coordination and support of student projects.
 
 The handling of data related topics was focused on the following tasks
 * definition and reporting of KPIs
@@ -37,4 +37,4 @@ Aside from the already mentioned, I also took on responsibilities in various oth
 * supervision of a student project to create a proof of concept on natural language processing with AWS within the existing feedback processing pipeline
 * cross-unit data & insights sharing and alignment on processes
 
-To achieve all of this she developed a strong grip on  tools like Mixpanel, Tableau, data lake (AWS Athena), Survey Monkey, Jupyter, Python, Google Analytics and Atlassian. This was enhanced by her understanding of topics such as GDPR, MVP and personas, experimentation, user lifetime journey, AAARRR metrics and usability & UX Design.
+To achieve all of this I developed a strong grip on  tools like Mixpanel, Tableau, data lake (AWS Athena), Survey Monkey, Jupyter, Python, Google Analytics and Atlassian. This was enhanced by my understanding of topics such as GDPR, MVP and personas, experimentation, user lifetime journey, AAARRR metrics and usability & UX Design.
