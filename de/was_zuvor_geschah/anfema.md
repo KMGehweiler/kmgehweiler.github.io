@@ -3,7 +3,7 @@ layout: german_expanded
 ---
 <div style="text-align: right"><a href="/de/was_zuvor_geschah/anfema">DE</a> <a href="/en/previously/anfema">EN</a></div>
 
-# Übersetzer<br>& DataViz Consultant
+# Übersetzer<br>& DataViz Consultant @&nbsp;anfema
 
 _Augsburg; Apr 2013 - May 2013_
 

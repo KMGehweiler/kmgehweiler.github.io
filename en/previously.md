@@ -12,10 +12,10 @@ layout: english_expanded
 
 **hightlights of my previous work experiences:**
 
-* [data analyst @ avira](previously/avira)
-* [assistent @ sequda](previously/sequda)
-* [translator & statistical consultant @ anfema](previously/anfema)
-* [student council, student parliament & student council of elders @ uni augsburg](previously/uni-augsburg)
+* [data analyst @&nbsp;avira](previously/avira)
+* [assistent @&nbsp;sequda](previously/sequda)
+* [translator & statistical consultant @&nbsp;anfema](previously/anfema)
+* [student council, student parliament & student council of elders @&nbsp;uni&nbsp;augsburg](previously/uni-augsburg)
 
 
 My full CV can be found in [LinkedIn](https://www.linkedin.com/in/karingehweiler/).

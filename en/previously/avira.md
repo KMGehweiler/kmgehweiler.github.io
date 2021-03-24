@@ -3,7 +3,7 @@ layout: english_expanded
 ---
 <div style="text-align: right"><a href="/de/was_zuvor_geschah/avira">DE</a> <a href="/en/previously/avira">EN</a></div>
 
-# Data Analyst @ Avira
+# Data Analyst @&nbsp;Avira
 
 _Tettnang; Aug 2016 - Feb 2021_
 
