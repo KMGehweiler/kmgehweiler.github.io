@@ -6,7 +6,10 @@ layout: german
 ---
 <div style="text-align: right"><a href="/index">DE</a> <a href="/en/home">EN</a></div>
 
-# Hi there!
+# Schönen guten Tag!
+
+Ich bin Karin - Daten-Analyst und ... aus der Bodensee Gegend.
+Ich
 
 I'm Karin - a Data Analyst and structure enthusiast currently located a the lake of constance.
 My passion are the creation of order out of chaos and preparing it for everyone.
