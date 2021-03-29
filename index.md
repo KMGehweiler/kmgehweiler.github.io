@@ -16,5 +16,5 @@ Ich bringe gerne Ordnung ins Chaos und restrukuriere es, damit andere was davon 
 Ich mag außerdem auch Sprachen und arbeite freiwillig als Übersetzer (Englisch -> Deutsch) für asiatische Serien auf Viki. Ich hoffe, dass ich eines Tages auch KOreanisch so gut beherrsche, dass ich Koreanisch -> Englisch überstetzen kann.
 
 Mehr über mich:
-* [Fähigkeiten & Technologien](faehigkeiten-und-technologien) und
-* [Highlights](was_zuvor_geschah) aus meiner bisherigen Berufserfahrung
+* [Fähigkeiten & Technologien](de/faehigkeiten-und-technologien) und
+* [Highlights](de/was_zuvor_geschah) aus meiner bisherigen Berufserfahrung
