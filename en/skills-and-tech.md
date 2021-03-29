@@ -3,7 +3,7 @@ layout: english
 ---
 <div style="text-align: right"><a href="/de/faehigkeiten-und-technologien">DE</a> <a href="/en/skills-and-tech">EN</a></div>
 
-# Skillstack
+# Skillstack & Topics
 
 * data visualisation
   * in Tableau, Mixpanel, R (ggplot2)
@@ -14,8 +14,6 @@ layout: english
 * organising and holding trainings
 * english fluency
 * experienced "right hand man"
-
-# Topics
 
 * AAARRR metrics
 * GDPR

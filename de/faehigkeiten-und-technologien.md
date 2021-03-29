@@ -3,7 +3,7 @@ layout: german
 ---
 <div style="text-align: right"><a href="/de/faehigkeiten-und-technologien">DE</a> <a href="/en/skills-and-tech">EN</a></div>
 
-# Fähigkeiten
+# Fähigkeiten & Kenntnisse
 
 * Datenvisualisierung
   * in Tableau, Mixpanel, R (ggplot2)
@@ -14,8 +14,6 @@ layout: german
 * Schulungen organisieren und halten
 * fließend in Englisch  
 * erfahren in unterstützenden Positionen ("rechte Hand")
-
-# Kenntnisse
 
 * AAARRR Metriken
 * GDPR / DSGVO
