@@ -6,13 +6,15 @@ layout: german
 ---
 <div style="text-align: right"><a href="/index">DE</a> <a href="/en/home">EN</a></div>
 
-# Schönen guten Tag!
+# Hi!
 
-Ich bin Karin - Daten-Analyst und ... aus der Bodensee Gegend.
-Ich
+Ich bin Karin.
 
-I'm Karin - a Data Analyst and structure enthusiast currently located a the lake of constance.
-My passion are the creation of order out of chaos and preparing it for everyone.
-I also love languages and volunteer as an English-German translator for asian dramas on viki. I hope I can someday improve my Korean to also translate Korean-English.
+Ich mag Datenvisulaisierung, Dokumentation und alles, was gut strukturiert ist.
 
-More about me can be found ....
+Ich bringe gerne Ordnung ins Chaos und restrukuriere es, damit andere was davon haben.
+Ich mag außerdem auch Sprachen und arbeite freiwillig als Übersetzer (Englisch -> Deutsch) für asiatische Serien auf Viki. Ich hoffe, dass ich eines Tages auch KOreanisch so gut beherrsche, dass ich Koreanisch -> Englisch überstetzen kann.
+
+Mehr über mich:
+* [Fähigkeiten & Technologien](faehigkeiten-und-technologien) und
+* [Highlights](was_zuvor_geschah) aus meiner bisherigen Berufserfahrung
