@@ -13,7 +13,7 @@ Ich bin Karin.
 Ich mag Datenvisulaisierung, Dokumentation und alles, was gut strukturiert ist.
 
 Ich bringe gerne Ordnung ins Chaos und restrukuriere es, damit andere was davon haben.
-Ich mag außerdem auch Sprachen und arbeite freiwillig als Übersetzer (Englisch -> Deutsch) für asiatische Serien auf Viki. Ich hoffe, dass ich eines Tages auch KOreanisch so gut beherrsche, dass ich Koreanisch -> Englisch überstetzen kann.
+Ich mag außerdem auch Sprachen und arbeite freiwillig als Übersetzer (Englisch -> Deutsch) für asiatische Serien auf Viki. Ich hoffe, dass ich eines Tages auch Koreanisch so gut beherrsche, dass ich Koreanisch -> Englisch überstetzen kann.
 
 Mehr über mich:
 * [Fähigkeiten & Technologien](de/faehigkeiten-und-technologien) und
