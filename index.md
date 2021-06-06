@@ -10,10 +10,6 @@ layout: german
 
 Ich bin Karin.
 
-<img src="assets/img/1.jpg" alt="me - first of three" width=33%>
-<img src="assets/img/2.jpg" alt="me - second of three" width=33%>
-<img src="assets/img/3.jpg" alt="me - third of three" width=33%>
-
 Ich mag Datenvisulaisierung, Dokumentation und alles, was gut strukturiert ist.
 
 Ich bringe gerne Ordnung ins Chaos und restrukuriere es, damit andere was davon haben.
