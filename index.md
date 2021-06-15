@@ -20,7 +20,7 @@ Das hört sich etwas ebstrakt an, also lass mich das mit ein paar Themen, die mi
 * Anderen zu helfen
 * Datenvisualisierung
 
-Ich mag außerdem auch Sprachen und arbeite freiwillig als Übersetzer (Englisch -> Deutsch) für asiatische Serien auf Viki. Ich hoffe, dass ich eines Tages auch Koreanisch so gut beherrsche, dass ich Koreanisch -> Englisch überstetzen kann.
+Ich mag außerdem auch Sprachen und arbeite freiwillig als Übersetzer (Englisch -> Deutsch) für asiatische Serien auf Viki. Ich hoffe, dass ich in absehbarer Zeit auch Koreanisch so gut beherrsche, dass ich Koreanisch -> Englisch überstetzen kann.
 
 Mehr über mich:
 * [Fähigkeiten & Technologien](de/faehigkeiten-und-technologien) und
