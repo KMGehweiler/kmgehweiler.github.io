@@ -10,9 +10,16 @@ layout: german
 
 Ich bin Karin.
 
-Ich mag Datenvisulaisierung, Dokumentation und alles, was gut strukturiert ist.
+Ich bin kein Data Analyst.
 
 Ich bringe gerne Ordnung ins Chaos und restrukuriere es, damit andere was davon haben.
+Das hört sich etwas ebstrakt an, also lass mich das mit ein paar Themen, die mich interessieren, konkretisieren:
+* Organisation
+* Design
+* Minimalismus
+* Anderen zu helfen
+* Datenvisualisierung
+
 Ich mag außerdem auch Sprachen und arbeite freiwillig als Übersetzer (Englisch -> Deutsch) für asiatische Serien auf Viki. Ich hoffe, dass ich eines Tages auch Koreanisch so gut beherrsche, dass ich Koreanisch -> Englisch überstetzen kann.
 
 Mehr über mich:
