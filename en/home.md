@@ -8,10 +8,17 @@ layout: english
 
 I'm Karin.
 
-I love data visualization, documentation and everything that is structured well.
+I'm not a Data Analyst.
 
 My passion are the creation of order out of chaos and restructuring it for everyone to use.
-I also like languages and volunteer as an English-German translator for asian dramas on viki. I hope I can someday improve my Korean to also translate Korean-English.
+That sounds a bit abstract so let me make it more concrete with a couple of topics that I'm interested in:
+* organization
+* design
+* minimalism
+* helping others
+* data visualization
+
+I also like languages and volunteer as an English-German translator for Asian dramas on viki.com. I hope I can improve my Korean in the foreseeable future to also be able to translate Korean-English.
 
 Check out my
 * [skills- & techstack](skills-and-tech) and
