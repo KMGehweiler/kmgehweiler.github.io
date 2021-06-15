@@ -10,7 +10,7 @@ layout: german
 
 Ich bin Karin.
 
-Ich bin kein Data Analyst.
+Ich bin kein Data Analyst.  
 Ich bringe gerne Ordnung ins Chaos und restrukuriere es, damit andere was davon haben.
 
 Das hört sich etwas abstrakt an, also lass mich das mit ein paar Themen, die mich interessieren, konkretisieren:
