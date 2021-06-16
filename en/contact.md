@@ -13,5 +13,6 @@ professional networks
 * [Xing](https://www.xing.com/profile/KarinM_Gehweiler)
 
 other
-* [Viki](https://www.viki.com/users/kmg) translator profile
-* [Instagram](https://www.instagram.com/km.gehweiler/)
+* [viki](https://www.viki.com/users/kmg) translator profile
+* [instagram](https://www.instagram.com/km.gehweiler/)
+* [goodreads](https://www.goodreads.com/user/show/90196145-karin-gehweiler)
