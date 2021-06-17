@@ -8,7 +8,8 @@ layout: english
 
 I'm Karin.
 
-I'm not a Data Analyst.
+I'm not a Data Analyst. 
+Not just a Data Analyst anyway.
 
 My passion are the creation of order out of chaos and restructuring it for everyone to use.
 That sounds a bit abstract so let me make it more concrete with a couple of topics that I'm interested in:
