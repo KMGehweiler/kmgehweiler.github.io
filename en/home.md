@@ -3,6 +3,13 @@ layout: english
 ---
 <div style="text-align: right"><a href="/index">DE</a> <a href="/en/home">EN</a></div>
 
+----
+
+> [!CAUTION]
+> **Website Under Revision**
+> This website is currently being updated. Some content may be temporarily outdated.
+
+----
 
 # Hi there!
 
