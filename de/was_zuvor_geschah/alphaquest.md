@@ -1,7 +1,7 @@
 ---
 layout: german_expanded
 ---
-<div style="text-align: right"><a href="/de/was_zuvor_geschah/uni-augsburg">DE</a> <a href="/en/previously/uni-augsburg">EN</a></div>
+<div style="text-align: right"><a href="/de/was_zuvor_geschah/alphaquest">DE</a> <a href="/en/previously/alphaquest">EN</a></div>
 
 # BI Consultant  @&nbsp;alphaQuest GmbH
 
