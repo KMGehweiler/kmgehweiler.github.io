@@ -12,6 +12,7 @@ layout: german_expanded
 
 **Hightlights meiner bisherigen Laufbahn:**
 
+* [Senior Consultant - Business Intelligence @&nbsp;alphaQuest](was_zuvor_geschah/alphaquest)
 * [Daten-Analyst @&nbsp;Avira](was_zuvor_geschah/avira)
 * [Assistent @&nbsp;sequda](was_zuvor_geschah/sequda)
 * [Übersetzer & DataViz Consultant @&nbsp;anfema](was_zuvor_geschah/anfema)
