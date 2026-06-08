@@ -6,6 +6,13 @@ layout: german
 ---
 <div style="text-align: right"><a href="/index">DE</a> <a href="/en/home">EN</a></div>
 
+----
+
+> [!CAUTION]
+> **Webseite in Überarbeitung**
+> Diese Webseite wird derzeit überarbeitet. Bitte hab ein wenig Geduld.
+
+----
 
 # Hi!
 
