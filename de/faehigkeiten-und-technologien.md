@@ -12,6 +12,7 @@ layout: german
 - Datenmodellierung (Grundlagen)
 - Datenqualität & Datenvalidierung
 
+
 ## Projektarbeit & Methoden
 - Projektmanagement im Data-/BI-Umfeld
 - Agile Arbeitsweisen (Scrum, Kanban, Scrumban)
@@ -19,11 +20,13 @@ layout: german
 - Anforderungsmanagement (fachlich & technisch)
 - Stakeholdermanagement (Business & IT)
 
+
 ## Kommunikation & Zusammenarbeit
 - Strukturierte und zielgruppengerechte Dokumentation
 - Workshops und Schulungen organisieren und durchführen
 - Schnittstellenarbeit zwischen Fachbereich und IT
 - Erfahrung in koordinierenden Rollen ("rechte Hand")
+
 
 ## Weitere Kenntnisse
 - GDPR / DSGVO
@@ -31,7 +34,9 @@ layout: german
 - Grundzüge von UX
 - Sehr gute Englischkenntnisse
 
+
 ---
+
 
 # Technologien
 
@@ -41,20 +46,24 @@ layout: german
 - Mixpanel (Dashboards, JQL, Administration)
 - R / RStudio (Analyse, Visualisierung mit ggplot2)
 
+
 ## Datenverarbeitung & Datenbanken
 - SQL
 - Microsoft SQL Server
 - Oracle Database
 - PySpark (Grundlagen)
 
+
 ## Datenintegration
 - ETL-Prozesse (Grundlagen)
 - Datenaufbereitung und -transformation
+
 
 ## Tools & Zusammenarbeit
 - Atlassian Suite (Jira, Confluence)
 - Git / GitHub
 - Jupyter
+
 
 ## Infrastruktur & Sonstiges
 - Data Lake (AWS Athena)
