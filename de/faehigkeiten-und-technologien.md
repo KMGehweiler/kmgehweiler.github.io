@@ -5,36 +5,57 @@ layout: german
 
 # Fähigkeiten & Kenntnisse
 
-* Datenvisualisierung
-  * in Tableau, Mixpanel, R (ggplot2)
-* Reporting durch
-  * automatisierte Emails
-  * dashboards
-* gute Dokumentation
-* Schulungen organisieren und halten
-* fließend in Englisch  
-* erfahren in unterstützenden Positionen ("rechte Hand")
+## Data & BI
+- Datenvisualisierung (Power BI, Tableau, Mixpanel, R/ggplot2)
+- Reporting & Dashboards (inkl. Power BI, Self-Service BI)
+- KPI-Design und verständliche Aufbereitung von Daten
+- Datenmodellierung (Grundlagen)
+- Datenqualität & Datenvalidierung
 
-* AAARRR Metriken
-* GDPR / DSGVO
-* Grundzüge von UX
-* Scrum
+## Projektarbeit & Methoden
+- Projektmanagement im Data-/BI-Umfeld
+- Agile Arbeitsweisen (Scrum, Kanban, Scrumban)
+- Scrum Master Erfahrung
+- Anforderungsmanagement (fachlich & technisch)
+- Stakeholdermanagement (Business & IT)
+
+## Kommunikation & Zusammenarbeit
+- Strukturierte und zielgruppengerechte Dokumentation
+- Workshops und Schulungen organisieren und durchführen
+- Schnittstellenarbeit zwischen Fachbereich und IT
+- Erfahrung in koordinierenden Rollen ("rechte Hand")
+
+## Weitere Kenntnisse
+- GDPR / DSGVO
+- AAARRR-Metriken
+- Grundzüge von UX
+- Sehr gute Englischkenntnisse
+
+---
 
 # Technologien
 
-* Mixpanel
-  * Administration
-  * Visualisierung / Erstellen von Dashboards
-  * JQL & Datenexport
-* Tableau
-  * einfache und fortgeschrittene Visualisierung
-  * auf Tableau Desktop & Server
-* Atlassian Tools
-  * Dokumentation & Team Organisation in Confluence
-  * Aufgaben-Organisation in Jira
-  * Code Versionierung in Sourcecode
-* Data Lake (AWS Athena)
-* Jupyter
-* Office 365 / MS Teams
-* Git / GitHub
-* R / RStudio
+## BI & Visualisierung
+- Microsoft Power BI (Reports, Dashboards, Service)
+- Tableau (Desktop & Server)
+- Mixpanel (Dashboards, JQL, Administration)
+- R / RStudio (Analyse, Visualisierung mit ggplot2)
+
+## Datenverarbeitung & Datenbanken
+- SQL
+- Microsoft SQL Server
+- Oracle Database
+- PySpark (Grundlagen)
+
+## Datenintegration
+- ETL-Prozesse (Grundlagen)
+- Datenaufbereitung und -transformation
+
+## Tools & Zusammenarbeit
+- Atlassian Suite (Jira, Confluence)
+- Git / GitHub
+- Jupyter
+
+## Infrastruktur & Sonstiges
+- Data Lake (AWS Athena)
+- Office 365 / MS Teams
