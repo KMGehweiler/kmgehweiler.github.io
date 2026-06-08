@@ -12,6 +12,7 @@ layout: english
 - Data modeling (fundamentals)
 - Data quality and validation
 
+
 ## Project & Methods
 - Project management in data/BI environments
 - Agile methodologies (Scrum, Kanban, Scrumban)
@@ -19,11 +20,13 @@ layout: english
 - Requirements engineering (functional & technical)
 - Stakeholder management (business & IT)
 
+
 ## Communication & Collaboration
 - Structured and audience-oriented documentation
 - Organizing and conducting workshops and trainings
 - Bridging business and IT
 - Experience in coordinating/supporting roles (“right-hand”)
+
 
 ## Additional Knowledge
 - GDPR / data privacy
@@ -31,7 +34,9 @@ layout: english
 - Basic UX principles
 - Fluent English
 
+
 ---
+
 
 # Technologies
 
@@ -41,15 +46,18 @@ layout: english
 - Mixpanel (dashboards, JQL, administration)
 - R / RStudio (analysis, visualization with ggplot2)
 
+
 ## Data Processing & Databases
 - SQL
 - Microsoft SQL Server
 - Oracle Database
 - PySpark (fundamentals)
 
+
 ## Data Integration
 - ETL processes (fundamentals)
 - Data preparation and transformation
+
 
 ## Tools & Collaboration
 - Atlassian Suite (Jira, Confluence)
