@@ -6,7 +6,7 @@ layout: english
 ----
 
 <span style="color: red; font-weight: bold;">Website Under Revision</span>
-<p style="color: #cc0000;">This website is currently being updated. Some content may be temporarily outdated.</p> 
+<p style="color: #cc0000;">This website is currently being updated. Some content or formatting may be temporarily outdated.</p> 
 
 ----
 
