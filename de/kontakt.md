@@ -5,7 +5,7 @@ layout: german
 
 # Kontakt
 
-**eMail:** karin.m.gehweiler@gmail.com
+**eMail:** karin.gehweiler@gmail.com
 
 ## Web Präsenz
 Professionelle Netzwerke
