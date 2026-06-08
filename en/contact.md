@@ -5,7 +5,7 @@ layout: english
 
 # Contact
 
-**email:** karin.m.gehweiler@gmail.com
+**email:** karin.gehweiler@gmail.com
 
 ## Web Presence
 professional networks
