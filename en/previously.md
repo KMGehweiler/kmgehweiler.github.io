@@ -12,6 +12,7 @@ layout: english_expanded
 
 **hightlights of my previous work experiences:**
 
+* [Senior Consultant - Business Intelligence @&nbsp;alphaQuest](was_zuvor_geschah/alphaquest)
 * [data analyst @&nbsp;avira](previously/avira)
 * [assistent @&nbsp;sequda](previously/sequda)
 * [translator & statistical consultant @&nbsp;anfema](previously/anfema)
