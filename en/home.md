@@ -5,9 +5,8 @@ layout: english
 
 ----
 
-> [!CAUTION]
-> **Website Under Revision**
-> This website is currently being updated. Some content may be temporarily outdated.
+<span style="color: red; font-weight: bold;">Website Under Revision</span>
+<p style="color: #cc0000;">This website is currently being updated. Some content may be temporarily outdated.</p> 
 
 ----
 
