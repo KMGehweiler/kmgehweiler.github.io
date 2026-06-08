@@ -8,9 +8,8 @@ layout: german
 
 ----
 
-> [!CAUTION]
-> **Webseite in Überarbeitung**
-> Diese Webseite wird derzeit überarbeitet. Bitte hab ein wenig Geduld.
+<span style="color: red; font-weight: bold;">Webseite in Überarbeitung</span>
+<p style="color: #cc0000;">Diese Webseite wird gerade aktualisiert. Einige Inhalte oder Formattierungen könnten noch nicht finalisiert sein.</p> 
 
 ----
 
