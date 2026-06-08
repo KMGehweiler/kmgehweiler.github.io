@@ -7,8 +7,6 @@ layout: german_expanded
 
 _Ulm; seit 2021_
 
-# Profile Summary (since 09/2021)
-
 ## Overview
 
 Experienced Data & BI Project Manager with a strong focus on data-driven projects, reporting solutions, and agile ways of working. Combines analytical depth in data analysis with practical experience in managing complex projects.
